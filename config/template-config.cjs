@@ -1,15 +1,12 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: 'tPy_xWWN1oGZr9N8an-y1C9dol6gg5S_RM1u4dphVzk',
+    id: 'CMs1FyPnBxBwwuQGXsQcUi1Zqx6JlKORTM9_WNJKZP4',
     title: '亲爱的, 早上好',
     desc: `
-      **{{date.DATA}}**
-      
+      {{date.DATA}}
       下个休息日：{{holidaytts.DATA}}
-      
       ---
-      
       城市：{{city.DATA}}
       
       天气：{{weather.DATA}}
